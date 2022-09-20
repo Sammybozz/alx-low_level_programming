@@ -26,3 +26,4 @@ void rev_string(char *s)
 		s[len1--] = tmp;
 	}
 }
+}
