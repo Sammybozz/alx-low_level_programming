@@ -3,11 +3,11 @@
 #include "variadic_functions.h"
 
 /**
- * print_strins - function with 3 parameter
+ * print_strings - function with 3 parameter
  * @separator: char type pointer to string
  * @n: unsigned int type
  *
- * description: prints string followed by a new line
+ * Description: prints string followed by a new line
  * Return: na
  */
 void print_strings(const char *separator, const unsigned int n, ...)
